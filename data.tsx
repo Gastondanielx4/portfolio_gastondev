@@ -99,6 +99,11 @@ export const dataExperience = [
                 value: 90,
             },
             {
+                name: "TypeScript",
+                subtitle: "Experimentado",
+                value: 80,
+            },
+            {
                 name: "Tailwind CSS",
                 subtitle: "Basico",
                 value: 30,
